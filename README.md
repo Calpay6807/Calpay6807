@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<a border-radius:"50%"> ![wp](https://user-images.githubusercontent.com/125597098/225575145-b22b0f5b-96cd-4519-8133-41b612d268df.jpg) </a>
+
+<img src="(https://user-images.githubusercontent.com/125597098/225575714-a21c99cd-3a1b-4ac6-b0ca-c7b4210884dd.jpg)
+" alt="Örnek" width="30" height="30">
+
 
 
 <h1 align="center">Hi 👋, I'm Alpay</h1>
