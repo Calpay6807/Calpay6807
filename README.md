@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![]![wp](https://user-images.githubusercontent.com/125597098/225574559-f88b9277-4e41-47bf-ac9a-374938206ca4.jpg)
+<img src=" ![wp](https://user-images.githubusercontent.com/125597098/225574980-502198d9-70ff-4d24-bbe6-d92298efb4c2.jpg)
+ " >
 
 
 <h1 align="center">Hi 👋, I'm Alpay</h1>
