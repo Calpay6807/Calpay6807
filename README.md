@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="(https://user-images.githubusercontent.com/125597098/225575714-a21c99cd-3a1b-4ac6-b0ca-c7b4210884dd.jpg)
+<img src="https://user-images.githubusercontent.com/125597098/225575714-a21c99cd-3a1b-4ac6-b0ca-c7b4210884dd.jpg
 " alt="Örnek" width="30" height="30">
 
 
