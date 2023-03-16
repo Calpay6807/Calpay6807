@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-
-<img src="wp.jpg
-" alt="Örnek" width="30" height="30">
-
-
-
 <h1 align="center">Hi 👋, I'm Alpay</h1>
 <h3 align="center">React Frontend Developer from Türkiye</h3>
 
