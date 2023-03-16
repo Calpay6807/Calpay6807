@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src=" ![WhatsApp Görsel 2023-03-16 saat 12 26 34](https://user-images.githubusercontent.com/125597098/225573801-1c45972e-b93a-4f8b-b25a-3326cf593e42.jpg)
-">
+![]![wp](https://user-images.githubusercontent.com/125597098/225574559-f88b9277-4e41-47bf-ac9a-374938206ca4.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Alpay</h1>
 <h3 align="center">React Frontend Developer from Türkiye</h3>
