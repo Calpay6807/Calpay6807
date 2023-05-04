@@ -4,10 +4,10 @@
 <h3 align="center">React Frontend Developer from Türkiye</h3>
 
 <p align="left">👋 Hi everyone  my name is alpay Iam a frontend developer ı was born in aksaray ıam 24 years old
-  ı tryin to learn english and codding ı graduante from university</p>
+  ı tryin to learn english  ı graduante from university</p>
 
 
-- 🌱 I’m currently learning **English and javascript**
+- 🌱  **English and javascript and React**
 
 - 💬 Ask me about **Html CSS SCSS SASS**
 
